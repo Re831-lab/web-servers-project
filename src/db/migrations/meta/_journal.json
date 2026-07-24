@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1784752002194,
+      "tag": "0000_breezy_red_skull",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1784752468570,
+      "tag": "0001_magical_mephisto",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1784822777952,
+      "tag": "0002_empty_miss_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1784823955025,
+      "tag": "0003_wooden_marauders",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1784930403756,
+      "tag": "0004_romantic_maginty",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1784930518916,
+      "tag": "0005_dark_kang",
+      "breakpoints": true
+    }
+  ]
+}

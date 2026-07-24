@@ -1,0 +1,2 @@
+DROP TABLE "refresh_tokens" CASCADE;--> statement-breakpoint
+ALTER TABLE "users" ADD COLUMN "is_chirpy_red" boolean DEFAULT false NOT NULL;
